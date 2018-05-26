@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabWork3.1</string>
+    <string-array name="types">
+        <item>Моноблок</item>
+        <item>Розкладний</item>
+        <item>Слайдер</item>
+        <item>Ротатор</item>
+    </string-array>
+</resources>
